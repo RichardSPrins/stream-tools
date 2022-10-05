@@ -1,0 +1,1 @@
+export const DONATION_PLATFORM_FEE = 0.12;
